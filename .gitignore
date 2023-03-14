@@ -1,0 +1,7 @@
+test/test-out
+node_modules/
+bundle/
+.spago/
+output/
+dependencies/
+.DS_Store

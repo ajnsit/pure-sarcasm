@@ -1,0 +1,23 @@
+{
+  "name": "pure-sarcasm",
+  "version": "0.0.1",
+  "description": "A Wasm backend for PureScript",
+  "files": [
+    "LICENSE"
+  ],
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajnsit/pure-sarcasm.git"
+  },
+  "keywords": [
+    "PureScript",
+    "Wasm",
+    "Backend"
+  ],
+  "author": "Anupam Jain",
+  "license": "MIT",
+  "devDependencies": {
+  }
+}
